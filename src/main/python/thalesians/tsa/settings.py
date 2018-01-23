@@ -1,3 +1,6 @@
+"""A number of 'constants' and global variables, which can be set
+and influence the entire library.
+"""
 import sys
 
 if __debug__:
